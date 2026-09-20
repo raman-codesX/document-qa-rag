@@ -5,7 +5,6 @@ import streamlit as st
 
 from main import build_rag, ask_question
 
-
 #PAGE
 
 st.set_page_config(
@@ -14,7 +13,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
 
 #STYLE
 
