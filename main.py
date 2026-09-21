@@ -187,8 +187,6 @@ def load_document(file_path):
 
 #CHUNK FUNCTION
 
-#CHUNK FUNCTION
-
 def chunking(documents):
 
     splitter = RecursiveCharacterTextSplitter(
