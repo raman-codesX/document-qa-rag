@@ -37,7 +37,7 @@ Answer + Citations
 
 The system first extracts and chunks the uploaded document. FAISS and BM25 are then used to find relevant chunks. The retrieved results are reranked using a Cross-Encoder before being passed to Gemini for answer generation.
 
-Tech Stack
+Tech Stack-----
 Python
 Streamlit
 PyMuPDF
