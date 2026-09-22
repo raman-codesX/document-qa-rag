@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is the field of creating systems that can perform tasks that normally require human intelligence.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 1"
+    },
+    {
+        "question": "What is supervised learning?",
+        "answer": "Supervised learning is a type of machine learning where a model learns from labeled training data.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 3"
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "answer": "Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment and receiving rewards or penalties.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 5"
+    },
+    {
+        "question": "What is deep learning?",
+        "answer": "Deep learning is a type of machine learning that uses neural networks with multiple layers to learn complex patterns from data.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 7"
+    },
+    {
+        "question": "What is natural language processing?",
+        "answer": "Natural language processing is a field of AI that enables computers to process, understand, and generate human language.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 8"
+    },
+    {
+        "question": "What is feature engineering?",
+        "answer": "Feature engineering is the process of creating, transforming, or selecting useful features from data to improve machine learning performance.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 13"
+    },
+    {
+        "question": "Why is a validation set used?",
+        "answer": "A validation set is used to evaluate a model during development and help select or tune the best model configuration.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 15"
+    },
+    {
+        "question": "What happens when a model overfits?",
+        "answer": "Overfitting occurs when a model learns the training data too closely and performs poorly on unseen data.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 16"
+    },
+    {
+        "question": "What is regularization used for?",
+        "answer": "Regularization is used to reduce overfitting by adding constraints or penalties that discourage overly complex models.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 18"
+    },
+    {
+        "question": "What is information retrieval?",
+        "answer": "Information retrieval is the process of finding relevant information or documents from a collection based on a user's query.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 21"
+    },
+    {
+        "question": "How does keyword search work?",
+        "answer": "Keyword search finds and ranks documents based on matching words or terms between the user's query and the documents.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 22"
+    },
+    {
+        "question": "What is semantic search?",
+        "answer": "Semantic search retrieves information based on the meaning and context of a query rather than only matching exact keywords.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 23"
+    },
+    {
+        "question": "What are vector embeddings?",
+        "answer": "Vector embeddings are numerical representations of text or other data that capture semantic information and can be used for similarity search.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 24"
+    },
+    {
+        "question": "What is FAISS used for?",
+        "answer": "FAISS is a library used for efficient similarity search over dense vectors.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 25"
+    },
+    {
+        "question": "What is BM25?",
+        "answer": "BM25 is a keyword-based ranking method that considers term frequency, document frequency, and document length.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 26"
+    },
+    {
+        "question": "Why is hybrid retrieval used?",
+        "answer": "Hybrid retrieval combines different retrieval methods, such as keyword search and semantic search, to improve the retrieval of relevant information.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 27"
+    },
+    {
+        "question": "What is reranking in a RAG system?",
+        "answer": "Reranking is the process of taking retrieved results and ordering them again based on their relevance to the user's query.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 28"
+    },
+    {
+        "question": "What is chunk overlap?",
+        "answer": "Chunk overlap is the amount of text shared between consecutive chunks to help preserve context across chunk boundaries.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 30"
+    },
+    {
+        "question": "What does faithfulness measure in RAG evaluation?",
+        "answer": "Faithfulness measures whether a generated answer is supported by the retrieved context.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 37"
+    },
+    {
+        "question": "What is hallucination in a language model?",
+        "answer": "A hallucination occurs when a language model generates information that is incorrect, unsupported, or not present in the provided context.",
+        "source": "rag_evaluation_50_pages.pdf",
+        "location": "page 39"
+    }
+]
