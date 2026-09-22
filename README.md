@@ -1,41 +1,5 @@
 # Document Q&A with Citations
 
-Short project description
-
-## Features
-
-## How It Works
-small architecture
-
-## Tech Stack
-
-## Task 2 — RAG Evaluation
-
-20 questions
-50-page PDF
-Hit@3 = 100%
-Hit@5 = 100%
-
-## Project Structure
-
-## How to Run
-
-## Author
-
-No need to explain FAISS, BM25, Hit@3 formulas, every pipeline step, etc. in huge detail.
-
-Also README mein Task 1 + Task 2 dono ka documentation hona achha hai, because this is one project/repository.
-
-If you want, 
-I can give you a clean professional README around 60–80 lines, which is probably the right size for your GitHub project.
-
-Give me a clean professional README around 60–80 lines
-👍
-
-Yes. This is the version I'd actually use for your GitHub repo—clean, professional, and not unnecessarily long.
-
-# Document Q&A with Citations
-
 A Retrieval-Augmented Generation (RAG) application that allows users to ask questions about documents and receive answers with traceable source citations.
 
 ## Features
