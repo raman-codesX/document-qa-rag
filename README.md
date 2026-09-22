@@ -30,7 +30,8 @@ Cross-Encoder Reranking
 Gemini
    ↓
 Answer + Citations
-Tech Stack
+
+## Tech Stack
 Python
 Streamlit
 PyMuPDF
@@ -43,7 +44,7 @@ Task 2 — RAG Evaluation
 
 The retrieval system was evaluated using a separate 50-page evaluation document containing 20 questions with predefined expected source pages.
 
-Evaluation Results
+## Evaluation Results
 Metric	Result
 Questions	20
 Hit@3	100.00%
